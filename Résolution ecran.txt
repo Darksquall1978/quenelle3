@@ -1,0 +1,13 @@
+Trouvez d'abord votre config.cfg, c'est dans C:\Users\???\AppData\Roaming\IGWarlord\base , une fois que vous l'avez trouvé, ouvrez-le.
+
+Ensuite, autorisez les résolutions personnalisées en trouvant la ligne "seta r_mode" et définissez la valeur sur "-1"
+
+Ensuite, définissez votre largeur et votre hauteur en trouvant "seta r_customwidth" "xxxxx" et "seta r_customheight" "xxxxx"
+
+où xxxxx correspond à vos paramètres préfère.
+
+Amusez-vous.
+
+edit :
+
+vous pouvez également fixer le champ de vision en mettant "'seta cg_fov" et en définissant la valeur sur "115"
