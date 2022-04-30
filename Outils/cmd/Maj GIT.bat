@@ -22,7 +22,7 @@ cd..
 cd..
 ::RMDIR /s /q Git
 
-IronGripWarlord.exe
+start IronGripWarlord.exe
 exit
 
 
