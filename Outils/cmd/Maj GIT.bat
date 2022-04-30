@@ -12,16 +12,17 @@ Color 0e & Mode con cols=100 lines=40
 git pull
 
 ::@echo Mise a jour OK
-timeout /t 2 /nobreak > nul
+timeout /t 3 /nobreak > nul
 
 ::RMDIR /s /q quenelle
 
-::modif.bat
+modif.bat
 
 cd..
 cd..
 ::RMDIR /s /q Git
 
-IronGripWarlord.exe
+::Launcher.exe
 exit
+
 
