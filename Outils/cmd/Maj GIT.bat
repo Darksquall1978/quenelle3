@@ -1,11 +1,11 @@
 @echo off
-Color 0b & Mode con cols=50 lines=30
+Color 0e & Mode con cols=100 lines=40
 
-::git remote add wow git://github.com/Darksquall1978/quenelle3.git
+::git remote add valheim git://github.com/Darksquall1978/quenelle.git
 
 
 
-::git fetch wow
+::git fetch valheim
 
 ::git fetch
 
@@ -22,5 +22,6 @@ cd..
 cd..
 ::RMDIR /s /q Git
 
-???.exe
+IronGripWarlord.exe
 exit
+
